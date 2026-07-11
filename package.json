@@ -1,0 +1,9 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Tiny npm wrapper to run the Python Snake game",
+  "scripts": {
+    "dev": "python snake.py"
+  }
+}
